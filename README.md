@@ -1,3 +1,10 @@
+# SAIC Playground
+A Forum where SAIC students can play 💬👾🎨
+
+This project is created as a Final project for [PROFPRAC 3900](https://github.com/withoutwax/PROFPRAC-3900-090-Web-Art-Fall-2018) Course at [SAIC](http://www.saic.edu/).
+
+----------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
