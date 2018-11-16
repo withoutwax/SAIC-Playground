@@ -1,0 +1,16 @@
+.Menu {
+  display: grid;
+  grid-template-rows: 40px 1fr 1fr;
+
+  min-height: 100vh; /* Full Height length */
+  /* background: var(--color-01); */
+  border: solid 1px var(--color-01);
+  /* color: white; */
+}
+.Menu > * {
+  border: solid 1px var(--color-01);
+}
+.Menu-nav {
+  display: flex;
+  align-items: center;
+}

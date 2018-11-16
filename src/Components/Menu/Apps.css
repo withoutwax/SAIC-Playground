@@ -1,0 +1,8 @@
+.Apps-header {
+  display: grid;
+  grid-template-rows: 80px 1fr;
+
+}
+.Apps-header > * {
+  border: solid 1px var(--color-01);
+}
