@@ -1,0 +1,8 @@
+.Canvas {
+  display: grid;
+  grid-template-rows: 40px 1fr 50px;
+  min-height: 100vh;
+}
+.Canvas > * {
+  border: solid 1px var(--color-01);
+}

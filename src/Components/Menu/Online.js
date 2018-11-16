@@ -11,6 +11,7 @@ class Online extends Component {
           <div>Ann</div>
           <div>Misaki</div>
           <div>Bo</div>
+          <div>Raven</div>
           <div>Will</div>
         </div>
 
